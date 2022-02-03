@@ -1,1 +1,1 @@
-# wordle-KOR-_unlimited
+# wordle_KOR_unlimited
