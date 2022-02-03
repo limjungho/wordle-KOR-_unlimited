@@ -46,6 +46,9 @@ export const InfoModal = ({ isOpen, handleClose }: Props) => {
       <p className="text-sm text-gray-500">
         The letter ㅡ is not in the word in any spot.
       </p>
+      <p className="text-sm text-gray-500">
+        -게임을 새로 시작하려면 새로고침을 해주세요- 
+      </p>
     </BaseModal>
   )
 }
